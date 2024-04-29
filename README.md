@@ -106,7 +106,6 @@ Java 11, Spring boot, MySQL, Amazon RDS
 내용에 포함된 키워드로 검색할 수 있으며 새로고침 버튼을 통해 새로운 메모를 조회할 수 있습니다.
 - 게시판
 ![image](https://github.com/KoreaIt-J-23-2-4/memorious-front/assets/96562253/444030aa-3c87-4e3c-87f6-d5b57a97073d)
-![image](https://github.com/KoreaIt-J-23-2-4/memorious-front/assets/96562253/d2234480-cdfe-458b-90bb-ce30cd4f0afb)
 
 가족 구성원이 회의록, 식단, 건의사항 등 카테고리를 지정하고 사진과 글을 포스팅할 수 있는 기능입니다.
 전체 글 목록이 게시판 형태로 표시됩니다.
